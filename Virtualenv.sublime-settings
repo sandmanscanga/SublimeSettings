@@ -1,0 +1,8 @@
+{
+	"virtualenv_directories":
+	[
+		"/home/adam/.virtualenvs",
+		"/home/adam/Dycom/Personal/venv",
+		"/home/adam/Github/PythonNotes/.venv",
+	],
+}
